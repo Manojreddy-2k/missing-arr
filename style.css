@@ -1,0 +1,23 @@
+.container{
+    background: linear-gradient(#0073e6,#cce6ff);
+}
+h1{
+    color: #ffffff;
+    text-shadow: 2px 2px 5px black;
+}
+h2{
+    color: rgb(0,240,240);
+    text-shadow: 1px 1px 3px green;
+}
+body{
+    background-image: url(spidy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+        
+}
+.bgc{
+    border: 15px dotted green;
+    background-blend-mode: color-burn
+    
+    
+}
